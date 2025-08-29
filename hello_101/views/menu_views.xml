@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        
+        <!-- Action for Hello Component -->
+        <record id="action_hello_dashboard" model="ir.actions.client">
+            <field name="name">Hello 101</field>
+            <field name="tag">hello_dashboard</field>
+            <field name="target">current</field>
+        </record>
+        
+        <!-- Menu Item -->
+        <menuitem id="menu_hello_101_main"
+                  name="Hello 101"
+                  action="action_hello_dashboard"
+                  sequence="100"/>
+                  
+        <!-- Dashboard Template -->
+        <template id="dashboard_template" name="Hello 101 Dashboard">
+            <div class="hello_101-dashboard">
+                <div class="container">
+                    <h1>Hello 101</h1>
+                    <div id="hello-component-mount"></div>
+                </div>
+            </div>
+        </template>
+        
+    </data>
+</odoo>

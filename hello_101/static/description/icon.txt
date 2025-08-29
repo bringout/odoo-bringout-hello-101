@@ -1,0 +1,12 @@
+Icon for Hello 101
+
+This directory should contain an icon.png file (128x128 pixels recommended).
+The icon represents the Hello 101 module in the Odoo Apps interface.
+
+You can:
+1. Create a custom PNG icon and save it as icon.png
+2. Use an existing icon from https://fontawesome.com/ as inspiration
+3. Generate an icon using online tools or graphic design software
+
+Module: odoo-bringout-hello-101
+Vendor: Bringout
