@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Bringout"
+msgstr "Bringout"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Hello 101"
+msgstr "Hello 101"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Loading..."
+msgstr "Učitavam..."
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Powered by"
+msgstr "Podržano od strane"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Refresh Message"
+msgstr "Refresh Message"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "Welcome to your custom Odoo module!"
+msgstr "Welcome to your custom Odoo module!"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid "from"
+msgstr "od"
+
+#. module: hello_101
+#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#, python-format
+msgid ""
+"• \n"
+"                        Built with Odoo 16 & OWL"
+msgstr ""
+"• \n"
+"                        Built with Odoo 16 & OWL"

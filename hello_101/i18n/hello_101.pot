@@ -1,0 +1,84 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hello_101
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-25 12:02+0000\n"
+"PO-Revision-Date: 2026-01-25 12:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Bringout"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#: model:ir.actions.client,name:hello_101.action_hello_dashboard
+#: model:ir.ui.menu,name:hello_101.menu_hello_101_main
+#: model_terms:ir.ui.view,arch_db:hello_101.dashboard_template
+#, python-format
+msgid "Hello 101"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Loading..."
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Powered by"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Refresh Message"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Welcome"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "Welcome to your custom Odoo module!"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid "from"
+msgstr ""
+
+#. module: hello_101
+#. odoo-javascript
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
+#, python-format
+msgid ""
+"• \n"
+"                        Built with Odoo 16 & OWL"
+msgstr ""
