@@ -8,59 +8,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Bringout"
-msgstr "Bringout"
+msgstr ""
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Hello 101"
-msgstr "Hello 101"
+msgstr ""
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Loading..."
 msgstr "Učitavam..."
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Powered by"
 msgstr "Podržano od strane"
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Refresh Message"
-msgstr "Refresh Message"
+msgstr ""
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Welcome"
 msgstr "Dobrodošli"
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "Welcome to your custom Odoo module!"
-msgstr "Welcome to your custom Odoo module!"
+msgstr ""
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid "from"
 msgstr "od"
 
 #. module: hello_101
-#: code:addons/hello_101/static/src/xml/hello_templates.xml
+#: code:addons/hello_101/static/src/xml/hello_templates.xml:0
 #, python-format
 msgid ""
 "• \n"
 "                        Built with Odoo 16 & OWL"
 msgstr ""
-"• \n"
-"                        Built with Odoo 16 & OWL"
